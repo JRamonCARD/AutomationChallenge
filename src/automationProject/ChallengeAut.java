@@ -17,6 +17,7 @@ public class ChallengeAut {
 	private String baseUrl = "https://juice-shop.herokuapp.com";
 
 	
+	@SuppressWarnings("deprecation")
 	@Before
 	public void setUp() throws Exception 
 	{
